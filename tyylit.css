@@ -1,0 +1,25 @@
+body {
+    background-color: aqua;
+}
+.sininen { color: blue;
+font-family: 40px;}
+.puna {color:red;}
+
+#otsikko {
+    color: blue;
+    font-family: 2.9em;
+}
+
+.iso {
+    font-size: 2em;
+}
+.keski {
+    font-size: 1.2em;
+}
+[target] {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+[target="_blank"]{
+    color: red;
+}
